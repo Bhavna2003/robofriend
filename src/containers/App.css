@@ -1,0 +1,20 @@
+.heading{
+    text-align: center;
+}
+
+@font-face{
+    font-family: 'SEGA LOGO FONT';
+    font-style: normal;
+    font-weight: normal;
+    src: local('SEGA LOGO FONT'), url('SEGA.TTF') format('TTF');
+}
+
+h1{
+    font-family: 'SEGA LOGO FONT';
+    font-weight: bolder;
+    color: rgb(240, 255, 253);
+}
+
+.F1{
+    font-size: 60px;
+}
